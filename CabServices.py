@@ -1,13 +1,3 @@
-"""
-=========================Bachelor of Software Engineering Program===========================
-Python Mini Project 
-Batch : 1
-Program : EEI3372 Programming in Python 
-Name : Mr.Kirushnapillai Nivatharan
-S_No : s92066206
-=============================================================================================
-"""
-
 TravellingVehicles = {
     'car':
     {
